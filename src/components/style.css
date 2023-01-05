@@ -1,0 +1,13 @@
+.counters {
+  display: flex;
+  justify-content: space-around;
+}
+
+.counters div {
+  display: flex;
+}
+
+.yell {
+  margin-left: 10px;
+  color: yellow;
+}
